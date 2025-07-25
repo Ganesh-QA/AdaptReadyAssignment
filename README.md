@@ -12,6 +12,7 @@ This code makes it easy to automatically pull patent date details—like the Fil
 ##  Installation
 # Install Playwright and date-fns in Code Editor
 npm init playwright@latest
+npm install date-fns
 
 
 ##  Commands to Run
